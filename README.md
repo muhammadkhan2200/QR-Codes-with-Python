@@ -20,5 +20,5 @@ url = pyqrcode.create(s)
 # Create and save the png file naming "myqr.png" 
 url.svg("myyoutube.svg", scale = 8) 
 
-![Screenshot 2024-09-15 180111](https://github.com/user-attachments/assets/ffe3daed-7985-4353-833b-e49721553bae)
+![Untitled-1](https://github.com/user-attachments/assets/0ad79c41-1bd1-48e4-b10c-00689e829a9e)
 
